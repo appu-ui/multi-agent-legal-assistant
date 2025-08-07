@@ -1,1 +1,1 @@
-# ai-legal-assistant-crewai
+# multi-agent-legal-assistant-crewai
